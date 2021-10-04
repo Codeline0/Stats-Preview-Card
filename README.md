@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/responsive-stats-card-using-html5-sass-and-bem-methodology-7h2GBEldm)
+- [Solution](https://www.frontendmentor.io/solutions/responsive-stats-card-using-html5-sass-and-bem-methodology-7h2GBEldm)
 - [Live Site](https://codeline0.github.io/Stats-Preview-Card/)
 
 ## My process
