@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/responsive-stats-card-using-html5-sass-and-bem-methodology-7h2GBEldm)
+- [Live Site](https://codeline0.github.io/Stats-Preview-Card/)
 
 ## My process
 
